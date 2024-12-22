@@ -10,7 +10,7 @@ To be completed...
 ## Deploy 
  1. Fork this Repo and enable Github Action
  2. Open CloudFlare and create KV namespace with name `settings` then copy the ID
- 3. Go to this forked repo and set secrets with name `v2ray-worker` and fill with KV settings ID
+ 3. Go to this forked repo and set secrets with name `saeid1` and fill with KV settings ID
  4. Edit this `README.md` file, then find and replace this button url bellow with yours `https://github.com/saeidbahal/v2ray-worker` then save it.
  4. then press `Deploy With Workers` and follow the instruction
 
